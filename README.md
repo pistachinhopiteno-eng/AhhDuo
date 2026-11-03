@@ -47,11 +47,25 @@ O AhhDuo segue os princípios visuais do **Google Material 3 Expressive**, prior
 
 ## ✦ CAPTURAS DE TELA
 
-Confira algumas imagens da interface do aplicativo.
+Confira abaixo algumas telas reais do AhhDuo.
 
-| Tela inicial | Simulação | Configurações |
-|:---:|:---:|:---:|
-| Em breve | Em breve | Em breve |
+### Tela inicial
+
+<p align="center">
+  <img src="screenshots/Screenshot_20261103_201349_AhhDuo.jpg" width="280" alt="Tela inicial do AhhDuo">
+</p>
+
+### Simulação
+
+<p align="center">
+  <img src="screenshots/Screenshot_20261103_201433_One%20UI%20Home.jpg" width="280" alt="Simulação do AhhDuo">
+</p>
+
+### Configurações
+
+<p align="center">
+  <img src="screenshots/Screenshot_20261103_201441_AhhDuo.jpg" width="280" alt="Configurações do AhhDuo">
+</p>
 
 ---
 
@@ -77,8 +91,6 @@ As versões oficiais do AhhDuo serão disponibilizadas na seção de lançamento
 |:---|:---|
 | Plataforma | Android |
 | Distribuição | APK |
-| Versão mínima | A definir |
-| Arquitetura | Conforme a versão |
 
 ---
 
@@ -118,20 +130,8 @@ As marcas e os nomes mencionados pertencem aos seus respectivos titulares.
 
 ---
 
-## ✦ LICENÇA
-
-**Licença a definir.**
-
-Até que uma licença seja publicada, todos os direitos sobre o código-fonte e os materiais originais do projeto permanecem reservados aos respectivos titulares.
-
----
-
 <p align="center">
 
 # AhhDuo
-
-**O glitch, recriado.**
-
-Uma experiência interativa de simulação visual.
-
+**by Imgu.**
 </p>
